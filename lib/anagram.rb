@@ -11,7 +11,7 @@ def match(some_word)
   some_word.match{ |X|
     X.split("")
 
-    
+
   }
-end 
+end
 end
